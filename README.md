@@ -1,4 +1,4 @@
-# Python-OOP-Library-Management-System-in-Python
+# Python-OOP-Library-Management-System
 
 A simple Object-Oriented Programming (OOP) based library management system built in Python.
 This project demonstrates how to design and implement a library system with classes, methods, and attributes, while enforcing borrowing limits and book availability rules.
